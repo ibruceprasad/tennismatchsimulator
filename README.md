@@ -14,24 +14,11 @@ This .Net 8 Console Application project simulate tennis match score board.
 │   ├──Contract/ #-----------------------*The interface contract*<br>
 <br><br>
 ├── tests/<br>
-│   ├──Library.Api.Integration.Test/       #---------------- *The Integration test suite*<br>
-│   ├──Library.Api.Repository.UnitTest     #---------------- *The unit tests for repository layer*<br>
-|   ├──Library.Api.Services.UnitTest       #---------------- *The unit tests for  service layer* <br>
+│   ├──TennisMatchSimulator.Test/       #---------------- *The unit test suite*<br>
 └── README.md<br>
 └── .gitignore<br>
 
 ### <ins>Technologies<ins>
-* .Net 8 Web Api,<br> 
-* Minimal API <br> 
-* API versioning <br>
-* automapper
-* OpenAPI Swashbuckle <br> 
-* Global Exception handler middleware <br>
-* Dependecy registration and injuction for service layer and repository layer <br>
-* Generic repository layer for CURD operation of entities<br>
-* Entity Framework Core <br> 
-* sqllite database <br>
-* xUnit mock tests for service layer and repository layer <br>
-* xUnit integration tests<br>
-* Integration test suite spin off MSSQL Docker container<br>
-* xUnit test results and coverage using coverlet
+* .Net 8 Console Application<br> 
+* Dependecy registration and injuction for service layer <br>
+* xUnit unit tests for service layer  <br>
