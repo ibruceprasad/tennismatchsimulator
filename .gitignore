@@ -5,3 +5,5 @@ src/Contract/obj
 src/TennisMatchSimulator/bin
 src/TennisMatchSimulator/obj
 .vs
+tests/TennisMatchSimulator.Test/obj
+tests/TennisMatchSimulator.Test/bin
