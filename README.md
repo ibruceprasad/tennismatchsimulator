@@ -10,7 +10,7 @@ This .Net 8 Console Application project simulate tennis match score board.
 
 ├── src/<br>
 │   ├──TennisMatchSimulator/ #-----------*Main Console APplication*<br>
-│   ├──TennisMatchService/ #-------------*Core business layer*<br>
+│   ├──ScoreBoardServices/ #-------------*Core business layer*<br>
 │   ├──Contract/ #-----------------------*The interface contract*<br>
 <br><br>
 ├── tests/<br>
