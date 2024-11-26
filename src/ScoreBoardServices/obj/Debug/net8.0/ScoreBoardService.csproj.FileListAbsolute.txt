@@ -1,0 +1,45 @@
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.deps.json
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.pdb
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.AssemblyReference.cache
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.AssemblyInfoInputs.cache
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.AssemblyInfo.cs
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.CoreCompileInputs.cache
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.sourcelink.json
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\refint\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.pdb
+C:\Users\prasa\1Bruce\Projects\project20\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ref\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.AssemblyReference.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.AssemblyInfoInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.AssemblyInfo.cs
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.CoreCompileInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.sourcelink.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\refint\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.deps.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\bin\Debug\net8.0\Contract.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\bin\Debug\net8.0\Contract.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.CopyComplete
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\TennisMatchService\obj\Debug\net8.0\ref\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.deps.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\bin\Debug\net8.0\ScoreBoardService.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\bin\Debug\net8.0\Contract.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\bin\Debug\net8.0\Contract.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.AssemblyReference.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.AssemblyInfoInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.AssemblyInfo.cs
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.CoreCompileInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.sourcelink.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.csproj.CopyComplete
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\refint\ScoreBoardService.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ScoreBoardService.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\TennisMatchSimulator\simulationproject2024\src\TennisMatchService\obj\Debug\net8.0\ref\ScoreBoardService.dll

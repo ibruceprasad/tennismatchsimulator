@@ -6,10 +6,12 @@ using System.Numerics;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using ScoreBoardService;
 using ScoreBoardService.Services;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+using ScoreBoardServices.Helpers;
 
-namespace ScoreBoardService
+
+namespace ScoreBoardServices
 {
     public class ScoreBoardProcessor : IScoreBoard
     {
@@ -28,7 +30,7 @@ namespace ScoreBoardService
             _matchScoreService = matchScoreService;
         }
 
-  
+
 
         public ScoreBoard GetScoreBoard(MatchDetails matchDetails)
         {
@@ -38,7 +40,7 @@ namespace ScoreBoardService
 
             // 1 . Validate input points
             var result = ValidateInputPoints(matchDetails);
-            if(result is not null)
+            if (result is not null)
             {
                 var errors = scoreBoard?.Errors ?? new List<Error>();
                 errors.Add(result);
@@ -50,25 +52,25 @@ namespace ScoreBoardService
             // Loop through each points
             for (int i = 0; i < matchDetails.Points.Length; i++)
             {
-                if(startNewGame)
+                if (startNewGame)
                 {
                     scoreBoard.GameBoard = new string[2] { "0", "0" };
                     startNewGame = false;
                 }
-                    
-                var currentPlayer = matchDetails.Points[i];
-                var opponetPlayer = Convert.ToInt32((!Convert.ToBoolean(currentPlayer)));
 
-                var currentPlayerScore  = scoreBoard.GameBoard[currentPlayer];
+                var currentPlayer = matchDetails.Points[i];
+                var opponetPlayer = Convert.ToInt32(!Convert.ToBoolean(currentPlayer));
+
+                var currentPlayerScore = scoreBoard.GameBoard[currentPlayer];
                 var opponentPlayerScore = scoreBoard.GameBoard[opponetPlayer];
 
                 // 1. Update Game
                 PopulateBoardWithGameDetails(scoreBoard, currentPlayer, opponetPlayer);
- 
 
-                if(scoreBoard.GameBoard.Any(x=>x.Equals(Constants.Point_Win)))
+
+                if (scoreBoard.GameBoard.Any(x => x.Equals(Constants.Point_Win)))
                 {
-                    
+
                     // 2. Update the Set Board
                     _setScoreService.UpdateNewScore(scoreBoard.SetBoard, currentPlayer, opponetPlayer);
 
@@ -126,7 +128,7 @@ namespace ScoreBoardService
             Error? error = default!;
 
             // Validation - The input points should be either be 0 or 1
-            var result = matchDetails.Points.All(x => (x == 0 || x == 1));
+            var result = matchDetails.Points.All(x => x == 0 || x == 1);
             if (result == false)
             {
                 error = new Error() { Description = "Invalid points entered" };

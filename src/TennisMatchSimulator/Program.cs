@@ -10,7 +10,7 @@ var scoreBoardProcessor  = provider.GetService<IScoreBoard>();
 
 
 // Note:
-// Change the name of the player and scores here before starting the application
+// Change the name of the players and scores here before starting the application
 var matchDetails = new MatchDetails()
 {
     Players = new string[2]{ "Sam", "Tom" },

@@ -24,7 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Contract\Contract.csproj" />
-    <ProjectReference Include="..\..\src\TennisMatchService\ScoreBoardService.csproj" />
+    <ProjectReference Include="..\..\src\ScoreBoardServices\ScoreBoardServices.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ScoreBoardService;
 using NuGet.Frameworks;
+using ScoreBoardServices.Helpers;
 
 namespace TennisMatchSimulator.Test.ServiceTests
 {
